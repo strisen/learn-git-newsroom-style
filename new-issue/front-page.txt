@@ -22,6 +22,12 @@ Open Greenhouse Gardening
 
 ## Weekly Weather
 Sunday:    Rainy
+Monday:    Sunny
+Tuesday:   Snow
+Wednesday: Rainy
+Thursday:  Rainy
+Friday:    Sunny
+Saturday:  Snow
 Monday:    Rainy
 Tuesday:   Rainy
 Wednesday: Rainy
