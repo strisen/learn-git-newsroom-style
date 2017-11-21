@@ -5,16 +5,20 @@ June 27, 2016
 Serving you daily printed news since before newspapers went online.
 
 ## Local News
-* headline
-* headline
+Cat stuck in tree was called “Henry Berringer”
+“Paws at the Pumpkin Patch” in Jan
+“My Furry Valentine” in Feb
 
 ## Sports
-* headline
-* headline
+Highschool Bball
+PingPong Championship
+Upcoming Track Meet
 
 ## Culture
-* headline
-* headline
+Boardgame
+Battle of the bands
+Open Greenhouse Gardening
+
 
 ## Weekly Weather
 Sunday:    Rainy
@@ -24,6 +28,12 @@ Wednesday: Rainy
 Thursday:  Rainy
 Friday:    Sunny
 Saturday:  Snow
+Monday:    Rainy
+Tuesday:   Rainy
+Wednesday: Rainy
+Thursday:  Rainy
+Friday:    Rainy
+Saturday:  Rainy
 
 June 27, 2016
 25 cents
